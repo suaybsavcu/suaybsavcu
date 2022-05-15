@@ -1,0 +1,68 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(adam.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+              background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+}
+.signup-form{
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+    background: url(adam.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+              -moz-background-size: cover;
+              -o-background-size: cover;
+              background-size: cover;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    overflow: hidden;
+}
+.signup-form h1{
+    margin-top: 100px;
+    color: #ffff;
+    font-size: 40px;
+}
+.signup-form input{
+    display: block;
+    width: 100%;
+    padding: 0 16px;
+    height: 44px;
+    text-align: center;
+    box-sizing: border-box;
+    border: none;
+}
+.txt{
+    margin: 20px 0;
+    border-radius: 6px;
+}
+.up{
+    margin-top: 60px;
+    margin-bottom: 20px;
+    background: #538fef;
+    border-radius: 44px;
+    cursor: pointer;
+    transition: 0.8s;
+    display: block;
+}
+.up:hover{
+    transform: scale(0.96);
+    background: #ffff;
+    color: black;
+}
+.signup-form a{
+    text-decoration: none;
+    color: #ffff;
+    font-size: 14px;
+    padding: 10px;
+    transition: 0.8s;
+}
