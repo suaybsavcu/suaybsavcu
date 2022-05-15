@@ -1,6 +1,0 @@
-- 👋 Hi, I’m @suaybsavcu
-
-
-
-
-
