@@ -1,6 +1,5 @@
 print("Korku tüneline hoş geldiniz...")
 
-
 try:
    boy = float(input('Boyunuzun uzunluğu (santimetre) cinsinden giriniz...\n'))
 
