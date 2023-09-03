@@ -1,3 +1,4 @@
+#Bu Proje Ayberk Aktan Tarafından Değişiklikler Yapılmıştır (04.09.2023)
 print("Korku tüneline hoş geldiniz...")
 
 try:
