@@ -1,8 +1,10 @@
+#Bu Proje Ayberk Aktan Tarafından Değişiklikler Yapılmıştır (04.09.2023)
 print("Korku tüneline hoş geldiniz...")
 
-boy = int(input('Boyunuzun uzunluğu "santimetre" cinsinden giriniz...\n'))
+try:
+   boy = float(input('Boyunuzun uzunluğu (santimetre) cinsinden giriniz...\n'))
 
-if boy >= 120 :
+   if boy >= 120 :
     print("Korku tüneline binebilirsiniz...")
 
     yas = int(input("Bilet parası için kaç yaşında olduğunuzu söyler misiniz?\n"))
@@ -13,5 +15,10 @@ if boy >= 120 :
     elif yas <= 23:
         print("Bilet ücretiniz: 35 TL")
 
-else:
-    print("Üzgünüz, Korku tüneline binme koşulunu sağlamıyorsunuz...")
+    else:
+       print("Üzgünüz, Korku tüneline binme koşulunu sağlamıyorsunuz...")
+
+except ValueError:
+    print("Lütfen Sayısal Veriler Giriniz (1,200,32,40 gibi)")
+
+
