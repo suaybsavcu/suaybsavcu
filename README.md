@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 AI Engineer | Researcher | Developer<br>🧠 Yapay Zeka & Derin Öğrenme (Tümör Tespiti, Beyin Görüntüleme Analizi)<br>🔬 Neuropixel – Gelişmiş Tümör Tanı Algoritması<br>👨‍💻 Python | OpenCV | Makine Öğrenimi | Medikal Görüntü İşleme<br>🏆 Rocex Technology | Teknosft @ Teknofest Katılımcısı<br>🔍 Görüntü İşleme & Yapay Görme<br>🛠 Geliştirici Araçları & Otomasyon<br>
+🚀 AI Engineer | Researcher | developer<br>🧠 Artificial Intelligence & Deep Learning (Tumor Detection, Brain Imaging Analysis)<br>🔬 Neuropixel – Advanced Tumor Diagnosis Algorithm<br>👨‍💻 Python | OpenCV | Machine Learning | Medical Image Processing<br>🏆 Rocex Technology | Teknosft @ Teknofest Participant<br>🔍 Image Processing & Machine Vision<br>🛠 Developer Tools & Automation<br>
 
 
 ## 🌐 Socials:
