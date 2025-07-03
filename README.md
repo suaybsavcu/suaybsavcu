@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 AI Engineer | INNOVATİON | DEVELOPER <br>🧠 Artificial Intelligence & Deep Learning (Tumor Detection, Brain Imaging Analysis)<br>🔬 Neuropixel – Advanced Tumor Diagnosis Algorithm<br>👨‍💻 Python | OpenCV | Machine Learning | Medical Image Processing<br>🏆 Rocex Technology | Teknosft @ Teknofest Participant<br>🔍 Image Processing & Machine Vision<br>🛠 Developer Tools & Automation<br>
+🚀 AI Engineer | INNOVATİON | DEVELOPER <br>🧠 Artificial Intelligence & Deep Learning (Tumor Detection, Brain Imaging Analysis)<br>🔬 Neuropixel – Advanced Tumor Diagnosis Algorithm<br>👨‍💻 Python | OpenCV | Machine Learning | Medical Image Processing<br>🏆 Rocex Technology | Happy Hacking Space <br>🔍 Image Processing & Machine Vision<br>🛠 Developer Tools & Automation<br>
 
 
 ## 🌐 Socials:
