@@ -2,26 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+DEVELOPER;MACHINE+LEARNING+%7C+IMAGE+PROCESSING;LARGE+LANGUAGE+MODELS+%7C+DEEP+LEARNING;BUILDING+INTELLIGENCE%2C+ONE+MODEL+AT+A+TIME" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
-
-```yaml
-name: Suayb Savcu
-role: AI Developer
-focus:
-  - Machine Learning
-  - Image Processing
-  - Large Language Models
-  - Deep Learning
-project: Neuropixel - Advanced Tumor Diagnosis Algorithm
-affiliation: Rocex Technology | Happy Hacking Space
-tools: Python, OpenCV, TensorFlow, PyTorch, scikit-learn
-domain: Medical Image Processing & Machine Vision
-```
-
-<br>
-
-
-
 
 # Suayb Savcu
 **AI Developer** · Machine Learning · Image Processing · LLM
