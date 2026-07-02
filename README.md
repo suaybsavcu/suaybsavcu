@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shaking&height=40&color=gradient&customColorList=0,2,4,6,8&text=SUAYB%20SAVCU&fontSize=20&fontColor=FFFFFF&animation=blinking" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+DEVELOPER;MACHINE+LEARNING+%7C+IMAGE+PROCESSING;LARGE+LANGUAGE+MODELS+%7C+DEEP+LEARNING;BUILDING+INTELLIGENCE%2C+ONE+MODEL+AT+A+TIME" alt="Typing SVG" />
 </p>
 
