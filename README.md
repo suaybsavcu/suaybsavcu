@@ -6,12 +6,17 @@
 ## About
 
 ```yaml
-Role:        AI Developer
-Focus:       Machine Learning, Image Processing, LLMs, Deep Learning
-Project:     Neuropixel — Advanced Tumor Diagnosis Algorithm
-Affiliation: Rocex Technology, Happy Hacking Space
-Stack:       Python, OpenCV, TensorFlow, PyTorch, scikit-learn
-Domain:      Medical Image Processing & Machine Vision
+Role:            AI Developer
+Focus:           Machine Learning, Image Processing, LLMs, Deep Learning
+Education:       Computer Programming
+Current Project: Neuropixel — Advanced Tumor Diagnosis Algorithm
+                 Deep learning based brain tumor detection from MRI scans
+Affiliation:     Rocex Technology, Happy Hacking Space
+Stack:           Python, OpenCV, TensorFlow, PyTorch, scikit-learn
+                 NumPy, Pandas, HuggingFace, LangChain
+Domain:          Medical Image Processing & Machine Vision
+Interest:        AI-powered diagnostics, automated medical imaging,
+                 large language model fine-tuning, computer vision
 ```
 
 ---
@@ -20,9 +25,10 @@ Domain:      Medical Image Processing & Machine Vision
 
 ```
 ML/DL:        Python · TensorFlow · PyTorch · scikit-learn · NumPy · Pandas
-Vision:       OpenCV · Image Processing · Machine Vision
-LLM:          HuggingFace · Transformers · LangChain
+Vision:       OpenCV · Image Processing · Feature Extraction · Segmentation
+LLM:          HuggingFace · Transformers · LangChain · Prompt Engineering
 DevOps:       Git · Linux · Google Cloud · Arduino
+Languages:    Python · JavaScript · C#
 ```
 
 ---
@@ -43,7 +49,9 @@ Issues:        ###
 ## Featured Project
 
 ### Neuropixel
-Advanced tumor diagnosis algorithm using deep learning on medical imaging data. Built with Python, OpenCV, and TensorFlow for brain MRI analysis.
+Advanced tumor diagnosis algorithm using deep learning on brain MRI scans.
+Built with Python, TensorFlow, OpenCV for medical image preprocessing,
+segmentation, and classification. Achieves high accuracy on real clinical data.
 
 ---
 
