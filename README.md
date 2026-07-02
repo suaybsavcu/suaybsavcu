@@ -2,17 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=700&lines=AI+DEVELOPER;MACHINE+LEARNING+%7C+IMAGE+PROCESSING;LARGE+LANGUAGE+MODELS+%7C+DEEP+LEARNING;BUILDING+INTELLIGENCE%2C+ONE+MODEL+AT+A+TIME" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/suaybsavcu/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/suaybsavcu"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:suaybsavcu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=suaybsavcu&style=flat-square&color=00D4FF" />
-</p>
-
-<br>
-
----
-
 ### 👨‍💻 About Me
 
 ```yaml
