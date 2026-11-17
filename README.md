@@ -42,7 +42,7 @@ Languages:    Python · JavaScript · C#
 
 ```
 Commits:       ###
-Repos:         ###
+Repos:         16
 Pull Requests: ###
 Issues:        ###
 ```
@@ -72,7 +72,7 @@ segmentation, and classification. Achieves high accuracy on real clinical data.
 
 - LinkedIn: [suaybsavcu](https://www.linkedin.com/in/suaybsavcu/)
 - Instagram: [@suaybsavcu](https://instagram.com/suaybsavcu)
-- Email: suaybsavcu@gmail.com
+- Email: savcu21385@gmail.com
 
 ---
 
